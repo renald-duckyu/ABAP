@@ -1,0 +1,94 @@
+&nbsp;
+<h2>SAP公式のマテリアル</h2>
+<h3>公式のトレーニング（クラスルームあるいはオンライン）</h3>
+<div>
+<div>SAPの無料トレーニングについて（概要）</div>
+<div><a href="https://www.sap.com/japan/training-certification/free-training.html">https://www.sap.com/japan/training-certification/free-training.html</a></div>
+<div></div>
+<div>有料のABAPトレーニングBC400シリーズ（日本語開催もあり）</div>
+<div><a href="https://training.sap.com/course/bc400-abap-workbench-foundations-classroom-015-us-en/" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">https://training.sap.com/course/bc400-abap-workbench-foundations-classroom-015-us-en/</a></div>
+<div></div>
+</div>
+<div>OpenSAP（英語のみ）</div>
+<div>
+<div><a href="https://open.sap.com/courses/java1" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">https://open.sap.com/courses/java1</a></div>
+<div><a href="https://open.sap.com/courses/wtc1" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">https://open.sap.com/courses/wtc1</a></div>
+<div><a href="https://open.sap.com/courses/acw2-2" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">https://open.sap.com/courses/acw2-2</a></div>
+<div><a href="https://open.sap.com/courses/acw1-3" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">https://open.sap.com/courses/acw1-3</a></div>
+<div><a href="https://open.sap.com/courses/cst1" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">https://open.sap.com/courses/cst1</a></div>
+<div><a href="https://open.sap.com/courses/a4h1" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable">https://open.sap.com/courses/a4h1</a></div>
+<div></div>
+</div>
+<div>Thomas Jung Youtube channel(英語のみ自動字幕可)</div>
+<div>  *Thomas Jung is Head of Developer Advocacy – SAP Developer &amp; Community Relations</div>
+<div><a href="https://www.youtube.com/user/ThomasJung1/playlists">https://www.youtube.com/user/ThomasJung1/playlists</a></div>
+<h2></h2>
+<h2>テキストコンテンツ</h2>
+<h3>日本語編：NW7.0のみ、NW7.5は英語</h3>
+ABAP プログラミング(BC-ABA) ：プログラミング概要資料
+
+<a href="https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/43/41341147041806e10000000a1553f6/content.htm?no_cache=true">https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/9f/dba74635c111d1829f0000e829fbfe/frameset.htmhttps://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/43/41341147041806e10000000a1553f6/content.htm?no_cache=true</a>
+
+ABAP ワークベンチチュートリアル：ツールの使い方について
+<a href="https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/43/0f955bc2086ff3e10000000a422035/frameset.htm">https://help.sap.com/doc/saphelp_nw70/7.0.12/ja-JP/43/0f955bc2086ff3e10000000a422035/frameset.htm</a>
+<h3>英語編：</h3>
+ヘルプ文書
+
+<a href="https://help.sap.com/viewer/p/SAP_NETWEAVER_750">https://help.sap.com/viewer/p/SAP_NETWEAVER_750</a>
+
+SAP Community Blog
+
+<a href="https://blogs.sap.com/?s=ABAP">https://blogs.sap.com/?s=ABAP</a>
+
+Clean ABAP in Github
+
+<a href="https://github.com/SAP/styleguides/blob/master/clean-abap/CleanABAP.md">https://github.com/SAP/styleguides/blob/master/clean-abap/CleanABAP.md</a>
+
+Restful ABAP
+
+<a href="https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/33a301e3fff5404e89f090910f7bd978.html">https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/33a301e3fff5404e89f090910f7bd978.html</a>
+
+&nbsp;
+<h2>外部のコンテンツ</h2>
+<h2></h2>
+<h3>テキストコンテンツ</h3>
+<h4>日本語</h4>
+Biz.Online：日本語ABAP解説サイト
+<a href="https://it-biz.online/category/sap/abap/">https://it-biz.online/category/sap/abap/</a>
+
+RIP Tutorial:日本語ABAPチュートリアル
+
+<a href="https://riptutorial.com/ja/abap">https://riptutorial.com/ja/abap</a>
+
+&nbsp;
+<h3>英語</h3>
+Tutorials Point : チュートリアル、解説サイト
+
+<a href="https://www.tutorialspoint.com/sap_abap/index.htm">https://www.tutorialspoint.com/sap_abap/index.htm</a>
+
+TeachMeHANA：HANAに特化したチュートリアル、解説サイト
+
+<a href="http://teachmehana.com/">http://teachmehana.com/</a>
+
+ERPWorkbench：ABAP初心者,HANA,Fiori,UI5,IPhone,Enhancement etc 網羅的な解説サイト
+
+<a href="https://www.erpworkbench.com/index.htm">https://www.erpworkbench.com/index.htm</a>
+
+sapdatasheet：データモデルやテーブルに特化した解説サイト
+
+<a href="https://www.sapdatasheet.org/">https://www.sapdatasheet.org/</a>
+<h2></h2>
+<h2>動画コンテンツ（外部）</h2>
+ABAP for SAP Users （LinkedIn Learning 利用者は無料）
+
+※開発者向けではなくユーザー向けのABAPの概略
+
+<a href="https://www.linkedin.com/learning/abap-for-sap-users/">https://www.linkedin.com/learning/abap-for-sap-users/</a>
+
+&nbsp;
+
+SAP ABAP in Udemy:買い切りのコース
+
+<a href="https://www.udemy.com/topic/sap-abap/">https://www.udemy.com/topic/sap-abap/</a>
+
+&nbsp;
